@@ -1,0 +1,17 @@
+git config --global user.name "Your Name"
+git config --global user.email "youremail"
+cd .. [to the folder that has the source code]
+git init
+git add .
+git commit -m "Canvas Tutorials"
+ssh-keygen -t rsa -C "youremail"
+notepad ~/.ssh/id_rsa.pub
+[Ctrl+A]
+https://github.com/settings/keys
+[New SSH key]
+[Ctrl+V]
+ssh -T git@github.com
+[Hi XXX! You've successfully authenticated, but GitHub does not provide shell access.]
+[Github Create new repository]
+git remote add origin git@github.com:https://github.com/davidoster/canvas_tutorials
+git push origin master
