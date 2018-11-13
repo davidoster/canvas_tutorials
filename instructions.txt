@@ -23,3 +23,10 @@ git remote add davidoster git@github.com:https://github.com/davidoster/canvas_tu
 
 # someting new
 # new - 2
+
+# Visual Studio - https://blogs.msdn.microsoft.com/benjaminperkins/2017/04/04/setting-up-and-using-github-in-visual-studio-2017/
+# NetBeans - https://netbeans.org/kb/docs/ide/git.html
+# Eclipse - http://wiki.eclipse.org/EGit/Git_For_Eclipse_Users, https://www.eclipse.org/egit/
+# Intellij - https://www.jetbrains.com/help/idea/using-git-integration.html
+
+
