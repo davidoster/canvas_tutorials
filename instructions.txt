@@ -19,4 +19,4 @@ git push origin master
 #this is a comment from GKP
 # this is how GKP sends a push request
 
-git remote add myfriend git@github.com:https://github.com/davidoster/canvas_tutorials
+git remote add davidoster git@github.com:https://github.com/davidoster/canvas_tutorials
