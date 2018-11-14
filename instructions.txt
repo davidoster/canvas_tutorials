@@ -24,12 +24,22 @@ git remote add davidoster git@github.com:https://github.com/davidoster/canvas_tu
 # someting new
 # new - 2
 
+#Git simple -> http://rogerdudler.github.io/git-guide/ , https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+#Git to GitHub - > https://gist.github.com/ccannon94/982d69b23659d66c0ca6fb1384f94c97 , https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+#Git Everything -> https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+#Integrate Git with Programming IDEs
+#from https://github.com/davidoster/canvas_tutorials/blob/master/instructions.txt, 
 # Visual Studio - https://blogs.msdn.microsoft.com/benjaminperkins/2017/04/04/setting-up-and-using-github-in-visual-studio-2017/
 # NetBeans - https://netbeans.org/kb/docs/ide/git.html
 # Eclipse - http://wiki.eclipse.org/EGit/Git_For_Eclipse_Users, https://www.eclipse.org/egit/
 # Intellij - https://www.jetbrains.com/help/idea/using-git-integration.html
 # Visual Studio Code - https://code.visualstudio.com/docs/introvideos/versioncontrol
 
-#Git simple -> http://rogerdudler.github.io/git-guide/ , https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
-#Git to GitHub - > https://gist.github.com/ccannon94/982d69b23659d66c0ca6fb1384f94c97 , https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
-#Git Everything -> https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+#Add Collaborators to a Remote repository
+#GitHub - https://www.youtube.com/watch?v=sOciDss1EEY
+#BitBucket - https://confluence.atlassian.com/bitbucketserver/getting-started-with-git-and-bitbucket-server-776640936.html
+
+#How to contribute to a repository without being a Collaborator
+#GitHub -https://www.youtube.com/watch?v=yr6IzOGoMsQ
