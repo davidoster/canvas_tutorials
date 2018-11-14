@@ -28,5 +28,5 @@ git remote add davidoster git@github.com:https://github.com/davidoster/canvas_tu
 # NetBeans - https://netbeans.org/kb/docs/ide/git.html
 # Eclipse - http://wiki.eclipse.org/EGit/Git_For_Eclipse_Users, https://www.eclipse.org/egit/
 # Intellij - https://www.jetbrains.com/help/idea/using-git-integration.html
-# Visaul Studio Code - https://code.visualstudio.com/docs/introvideos/versioncontrol
+# Visual Studio Code - https://code.visualstudio.com/docs/introvideos/versioncontrol
 
